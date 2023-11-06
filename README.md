@@ -20,3 +20,4 @@ O projeto trata-se de um site onde simulamos o desenvolvimento de uma tela utili
   Basta apenas abrir o arquivo `index.html` no seu navegador que tera acesso ao codigo do projeto 
 
 ## 🛠️ Abrir e rodar o projeto
+https://abvini.github.io/alura-plus/
